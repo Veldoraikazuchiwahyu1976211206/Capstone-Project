@@ -19,16 +19,15 @@ Key highlights from the analysis:
 - There is a very weak negative relationship between daily social media usage time and actual productivity, as indicated by a correlation coefficient of approximately -0.0109. This suggests that as daily social media time increases, actual productivity tends to decrease slightly, but the relationship is not strong, and other factors likely play a more significant role in productivity.
 - The average daily social media time is approximately 3.11 hours
 - There is essentially no linear relationship between the duration of social media use and stress level in this dataset, as indicated by a near-zero correlation coefficient (0.000772)
-- Recomendation: To sustain productivity above 5, limit daily social media use to less than 3.09 hours, schedule engagement times, choose platforms wisely, consume content mindfully, and increase weekly offline time.
+- Recommendation: To sustain productivity above 5, limit daily social media use to less than 3.09 hours, schedule engagement times, choose platforms wisely, consume content mindfully, and increase weekly offline time.
 
 
 ## 🤖 AI Support Explanation
 AI tools were used to:
-- Clean and preprocess the dataset (handling missing values, normalization).  
-- Perform exploratory data analysis (EDA) using visualization libraries.  
-- Identify correlations and trends using statistical and ML techniques.  
-- Generate insights and automate reporting.  
-
+- Advanced Language Model (IBM Granite): Leveraged IBM Granite as the core LLM to perform data-driven analysis, generate insights, and interpret correlations between social media usage and productivity. Its instruction-tuned design ensured accurate and context-aware outputs.
+- Collaborative Environment (Google Colab): Implemented the model within Google Colab, enabling flexible experimentation, seamless code execution, and efficient handling of data analysis workflows without heavy local setup.
+- Enhanced Interpretation (ChatGPT): Utilized ChatGPT as a supportive tool to refine interpretations, structure findings more clearly, and enhance project documentation to make results more engaging and reader-friendly. 
+- Balanced Human–AI Synergy: While the analysis relied on AI to process large amounts of data, human oversight ensured the insights were relevant, meaningful, and actionable for the research objectives.
 The AI support ensures the analysis is **faster, more accurate, and scalable** for larger datasets.
 
 ## 🚀 How to Run
@@ -40,3 +39,4 @@ The AI support ensures the analysis is **faster, more accurate, and scalable** f
 
 ✍️ *Author: Wahyu Rafi Hamdani*  
 📅 *Date: August, 2025*
+
